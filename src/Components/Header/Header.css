@@ -4,6 +4,7 @@
   position: fixed;
   width: 100vw;
   z-index: 999;
+  margin-bottom: 50px;
 }
 
 .headerChildDiv {
@@ -94,8 +95,6 @@
   margin-right: 5px;
 }
 
-.language svg {
-}
 
 .span {
   text-decoration: none;
