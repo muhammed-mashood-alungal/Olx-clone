@@ -5,5 +5,5 @@ This project is a clone of the popular OLX platform, where users can post and br
 Key Features:
 
  -User authentication and authorization (Sign up, Login)
- -Posting new classified ads
- -
+ -Posting new classified ads 
+ 
